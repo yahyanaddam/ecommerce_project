@@ -6,7 +6,7 @@ It explores the data, generates insights, and saves key results to output files.
 
 ## Project Structure
 
-project/
+```project/
 ├── data/
 │ └── olist_customers_dataset.csv
 | └── olist_order_items_dataset.csv
@@ -23,6 +23,7 @@ project/
 │ └── orders_cleaned.csv
 │ └── items_cleaned.csv
 └── README.md
+```
 
 ## Contents 
 
